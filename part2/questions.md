@@ -8,7 +8,12 @@
 	it is useful for game delvelopers beacuse it will allow more then one person to work on the game at the smae time and when they are done it can intelgenty merge there work together
 
 3.	Define the following terms in relation to Git. Branch, Pull, Push, repository, working copy, merge
-	branch 
+	branch it relates to the section where your changes are saved 
+	pull it relates to downlowing any changes that have been made 
+	push commits your changes to the repostory 
+	repository is the central storage location for all the files and allow you to track them
+	working copy is the copy without a merge conflict and the latest up to date bug free verson 
+	merge is where to different versons come together
 
 4.	If you are working at a company, which of their policies and procedures might relate to using version control systems such as Git.
 
