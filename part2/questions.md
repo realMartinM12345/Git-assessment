@@ -17,6 +17,9 @@
 
 4.	If you are working at a company, which of their policies and procedures might relate to using version control systems such as Git.
 	policies relating to file managment and saving because git allows you to save files you will need to use these policies
+	ensure that you are respect other peoples IP
+	ensure that you don't infringe on others copyright 
+	maintain a safe workplace by abiding to OHS standards 
 
 5.	Merge conflicts can occur while using git. List merge tools or diff tools you can use to help you merge and deal with conflicts.
 	visual stuido code 
